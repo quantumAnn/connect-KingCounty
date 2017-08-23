@@ -6,9 +6,9 @@ The growing problem of homelessness in the greater Seattle area has long been an
 
 We welcome anyone who would like to contribute.  Currently, our core team is comprised of:
 
-- [@NoahGreer](https://github.com/NoahGreer) - Lead Developer
-- [@geferay](https://github.com/geferay) - Evangelist and Developer
-- [@quantumAnn] (https://github.com/quantumAnn) - Project Manager and Developer
+- [@NoahGreer](https://github.com/NoahGreer) - Developer
+- [@geferay](https://github.com/geferay) - Evangelist
+- [@quantumAnn] (https://github.com/quantumAnn) - Project Manager
 
 ## Technologies, APIs, and Datasets Utilized
 
