@@ -1,6 +1,6 @@
 # connect-KingCounty
 
-The growing problem of homelessness in the greater Seattle area has long been an ongoing discussion among residents.  We'd like to do something actionable towards addressing the problem.  The purpose of this mobile website is to provide a centralized source for the homeless of King County to find shelter, food, and other necessities.  Resources from prior incomplete partial attemtps and awesome work done for other cities (such as https://github.com/zendesk/linksf) will happily be scavanged or borrowed.
+The growing problem of homelessness in the greater Seattle area has long been an ongoing discussion among residents.  We'd like to do something actionable towards addressing the problem.  The purpose of this mobile website is to provide a centralized source for the homeless of King County to find shelter, food, and other necessities.  Resources from prior incomplete partial attempts and awesome work done for other cities (such as https://github.com/zendesk/linksf) will happily be scavenged or borrowed.
 
 ## Team Members
 
@@ -8,7 +8,7 @@ We welcome anyone who would like to contribute.  Currently, our core team is com
 
 - [@NoahGreer](https://github.com/NoahGreer) - Developer
 - [@geferay](https://github.com/geferay) - Evangelist
-- [@quantumAnn] (https://github.com/quantumAnn) - Project Manager
+- [@quantumAnn](https://github.com/quantumAnn) - Project Manager
 
 ## Technologies, APIs, and Datasets Utilized
 
